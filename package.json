@@ -1,0 +1,23 @@
+{
+  "name": "force-museum",
+  "version": "1.0.0",
+  "description": "data visualization of artist relations based on genre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethydiakabananas/Force-Museum.git"
+  },
+  "author": "bethy diakabana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bethydiakabananas/Force-Museum/issues"
+  },
+  "homepage": "https://github.com/bethydiakabananas/Force-Museum#readme",
+  "dependencies": {
+    "d3": "^4.5.0",
+    "socketio": "^1.0.0"
+  }
+}
