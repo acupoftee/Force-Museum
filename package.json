@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bethydiakabananas/Force-Museum#readme",
   "dependencies": {
+    "artsy": "^1.8.0",
     "d3": "^4.5.0",
     "socketio": "^1.0.0"
   }
