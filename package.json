@@ -19,6 +19,9 @@
   "dependencies": {
     "artsy": "^1.8.0",
     "d3": "^4.5.0",
-    "socketio": "^1.0.0"
+    "socketio": "^1.0.0",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "underscore": "^1.8.3"
   }
 }
